@@ -1,0 +1,24 @@
+{
+  "gen_url": [
+    "http://192.168.210.128:9003/llm/model/predict"
+  ],
+  "query_url": [
+    "http://192.168.210.113:10010/v1/technicalWrite/predict"
+  ],
+  "feasibility_studies_written_config": {
+      "type_id": 1,
+      "backend_url": "http://192.168.210.240:18081/fileUpload/saveResultFile",
+      "template_style": {
+        "0": {
+          "name":"公司科技项目可研报告",
+          "template_path": "./templates/公司科技项目可研报告简化.docx",
+          "placeholders": ["目的和意义", "项目研究的背景", "研究目标及主要研究内容"]
+        },
+        "1": {
+          "name":"513模板周报",
+          "template_path": "./templates/weekly/513_周报模板.docx",
+          "placeholders": ["一、总体建设情况", "二、主要进展", "三、下周重点工作"]
+        }
+      }
+    }
+}

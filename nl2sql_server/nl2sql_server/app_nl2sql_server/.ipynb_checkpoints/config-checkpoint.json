@@ -1,0 +1,7 @@
+{
+  "gen_url": [
+    "http://10.10.81.232:36010/llm/model/predict",
+    "http://10.10.86.237:9090/api/jadp/auth/session/verifyAccountCiphertext",
+    "https://10.10.86.237/yjpt/api/ind/indBase/getData"
+  ]
+}

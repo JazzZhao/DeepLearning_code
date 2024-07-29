@@ -1,0 +1,9 @@
+{
+  "gen_url": [
+    "http://192.168.210.128:9003/llm/model/predict",
+    "http://10.10.86.237:9090/api/jadp/auth/session/verifyAccountCiphertext",
+    "https://10.10.86.237/yjpt/api/ind/indBase/getData"
+  ],
+  "appId": "gaxicwatt2",
+  "appKey": "y1lkzxroe01oyotnltl5794925duohns"
+}
